@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_dbw8qi9b",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"Add a robotic arm to the four wheeler scene\"\n\"Create a new humanoid robot from scratch\"\n\"Give the four wheeler a more realistic suspension setup\"\n\n⚙️ Physics & Simulation\n\"Make the four wheeler drive forward and turn smoothly\"\n\"Simulate the four wheeler going over a bumpy surface\"\n\"Add gravity and collision effects to the empty room scene\"\n\n🛠️ Build & Experiment\n\"Add sliders to control the four wheeler's wheels in real time\"\n\"Set up a new scene with obstacles for the vehicle to navigate\"\n\"Try out different wheel sizes and see how it changes the motion\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780501956623
+}

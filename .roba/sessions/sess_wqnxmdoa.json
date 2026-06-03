@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_wqnxmdoa",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"Build me a robotic arm with three joints\"\n\"Create a legged robot that can stand on its own\"\n\"Design a wheeled robot with a grabber attachment\"\n\n⚙️ Physics & Simulation\n\"Make my four-wheeler drive in a figure-eight pattern\"\n\"Simulate what happens when the robot hits a wall\"\n\"Add realistic friction and gravity to my scene\"\n\n🛠️ Build & Experiment\n\"Add a ramp obstacle to the empty room scene\"\n\"Give my robot a new sensor to detect objects nearby\"\n\"Set up a second vehicle and have them race\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780501667068
+}

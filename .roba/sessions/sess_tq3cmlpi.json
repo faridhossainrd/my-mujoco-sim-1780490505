@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_tq3cmlpi",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the four_wheeler. Here's what we can do together:\n\n🤖 Motion & Poses\n\"Make the wheels roll forward in a smooth motion.\"\n\"Create a dynamic jumping gesture over obstacles.\"\n\"Perform a quick side‑to‑side shuffle to evade obstacles.\"\n\n⚙️ Simulation & Physics\n\"Adjust gravity to see how it affects the robot's stability.\"\n\"Simulate slippery terrain to test traction mechanisms.\"\n\"Tune motor forces for realistic acceleration.\"\n\n🛠️ Customise & Extend\n\"Add custom sensors to monitor wheel speed.\"\n\"Swap out the chassis design for a more compact shape.\"\n\"Integrate a new control script for autonomous navigation.\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780502133183
+}

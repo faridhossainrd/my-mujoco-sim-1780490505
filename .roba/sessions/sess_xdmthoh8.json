@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_xdmthoh8",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Four Wheeler. Here's what we can do together:\n\n🤖 Motion & Poses\n\"Make the four wheeler drive forward in a straight line\"\n\"Simulate the vehicle turning in a tight circle\"\n\"Give the four wheeler a bumpy off-road driving motion\"\n\n⚙️ Simulation & Physics\n\"Increase the wheel friction so it grips better on the ground\"\n\"Add some suspension bounciness to the chassis\"\n\"Simulate what happens if the vehicle hits a slope\"\n\n🛠️ Customise & Extend\n\"Add a second four wheeler to the scene for comparison\"\n\"Make the vehicle body larger and heavier\"\n\"Change the wheel size to see how it affects movement\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780502012031
+}

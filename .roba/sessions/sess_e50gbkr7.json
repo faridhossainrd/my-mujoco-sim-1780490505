@@ -1,11 +1,6 @@
 {
-  "sessionId": "sess_p2r63ivl",
-  "fullHistory": [
-    {
-      "role": "assistant",
-      "content": "I can't share that."
-    }
-  ],
+  "sessionId": "sess_e50gbkr7",
+  "fullHistory": [],
   "compressionCount": 0,
   "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
   "savedAt": 1780500589210
