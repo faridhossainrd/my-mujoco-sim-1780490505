@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_e8bhshwn",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"Create a quadruped robot that can walk and turn\"\n\"Build a humanoid with arms that can wave and reach\"\n\"Design a robotic arm that can pick and place objects\"\n\n⚙️ Physics & Simulation\n\"Test different gravity settings on my robot\"\n\"Add collision detection between multiple robots\"\n\"Simulate a robot climbing stairs or slopes\"\n\n🛠️ Build & Experiment\n\"Make the robot respond to keyboard controls\"\n\"Add sensors to track the robot's position\"\n\"Create a simple obstacle course environment\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780490934116
+}
