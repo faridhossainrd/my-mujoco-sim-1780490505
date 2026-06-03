@@ -1,4 +1,7 @@
 [
     "empty_room.xml",
-    "four_wheeler.xml"
+    "four_wheeler.xml",
+    "three_wheeler.xml"
+,
+  "three_wheeler.xml"
 ]

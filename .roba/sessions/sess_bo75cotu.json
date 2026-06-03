@@ -1,0 +1,12 @@
+{
+  "sessionId": "sess_bo75cotu",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — ready to help you build something innovative. Here's what we can do:\n\n🤖 Custom Robot Design\n\"Design a gripper that picks up blocks\"\n\"Create a walking pattern for a four-legged robot\"\n\"Add a light sensor that changes behavior\"\n\n⚙️ Physics & Simulation\n\"Simulate sliding on varied surfaces\"\n\"Observe forces during robot collisions\"\n\"Adjust mass to explore bounce effects\"\n\n🛠️ Build & Experiment\n\"Swap materials and test durability\"\n\"Run quick scene swaps to compare\"\n\"Tweak settings for new gestures\""
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780504683494
+}

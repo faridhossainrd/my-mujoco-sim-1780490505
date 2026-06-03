@@ -1,0 +1,20 @@
+{
+  "sessionId": "sess_mmfhhli1",
+  "fullHistory": [
+    {
+      "role": "assistant",
+      "content": "Hey! I'm Roba Copilot — your co-pilot for the Four Wheeler. Here's what we can do together:\n\n🤖 Motion & Poses\n\"Make the four wheeler drive forward in a straight line\"\n\"Get it to do a wide turning circle to the left\"\n\"Make it reverse slowly and then brake to a stop\"\n\n⚙️ Simulation & Physics\n\"Increase the wheel friction so it grips better on the surface\"\n\"Make the chassis heavier and see how it affects handling\"\n\"Add a bump on the ground to test suspension response\"\n\n🛠️ Customise & Extend\n\"Add a second four wheeler to the scene for a race\"\n\"Give the vehicle a roof and make it look more like a car\"\n\"Add headlights as glowing spheres at the front\""
+    },
+    {
+      "role": "assistant",
+      "content": "I can't share that."
+    },
+    {
+      "role": "assistant",
+      "content": "No task has been given. I won't write or modify files without one.\n\n**What do you want to do with the Four Wheeler?** Tell me and I'll act on it immediately. 🚗"
+    }
+  ],
+  "compressionCount": 0,
+  "workspaceRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
+  "savedAt": 1780504970100
+}

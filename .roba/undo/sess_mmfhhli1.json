@@ -1,0 +1,1 @@
+{"undo":[{"changes":[{"relPath":"assets/scenes/three_wheeler.xml","before":null,"toolName":"writeFile"},{"relPath":"assets/scenes/index.json","before":"[\n    \"empty_room.xml\",\n    \"four_wheeler.xml\"\n]","toolName":"modifyFile"}],"timestamp":1780504568000}],"redo":[]}

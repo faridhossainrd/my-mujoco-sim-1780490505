@@ -1,5 +1,5 @@
 {
-  "model": "nvidia/nemotron-3-nano-30b-a3b:free",
+  "model": "serv/serv-standard",
   "superAgentModel": "anthropic/claude-sonnet-4.5",
   "projectRoot": "/home/robacrh/roba/roba-laravel/repos/faridhossainrd/my-mujoco-sim-1780490505",
   "superAgentEnabled": false

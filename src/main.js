@@ -207,6 +207,23 @@ export class MuJoCoDemo {
       if (timeMS - this.mujoco_time > 35.0) { this.mujoco_time = timeMS; }
       while (this.mujoco_time < timeMS) {
 
+        // Three-wheeler: drive 10 metres forward then stop
+        if (this.params["scene"] === "three_wheeler.xml") {
+          const speed = 8.0;
+          const chassisX = this.data.qpos[0]; // freejoint x position
+          if (chassisX < 10.0) {
+            this.data.ctrl[0] = speed; // rear_left
+            this.data.ctrl[1] = speed; // rear_right
+            this.data.ctrl[2] = speed; // front drive
+            this.data.ctrl[3] = 0;     // steer straight
+          } else {
+            this.data.ctrl[0] = 0;
+            this.data.ctrl[1] = 0;
+            this.data.ctrl[2] = 0;
+            this.data.ctrl[3] = 0;
+          }
+        }
+
         // Automatic car animation for car scene
         if (this.params["scene"] === "car.xml") {
           const cycleTime = 6.0; // Total cycle time in seconds
